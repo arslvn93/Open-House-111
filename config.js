@@ -132,7 +132,7 @@ const config = {
     "repoName": "Open-House-111",
     "repoUrl": "https://github.com/arslvn93/Open-House-111",
     "tag": "Open House 114 Smith Road ",
-    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/KxSrsX5ZH2ZttFjyt9hW/webhook-trigger/723v7Nh8JC60wCn3aRmV",
+    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/CVLYBNRm65xkdYXWeFCq/webhook-trigger/Bz5U2LrvSTZglC5ZrM8D",
     "siteId": "0ed5f403-f53e-460f-8ecc-db7659ae9a04"
   }
 };
