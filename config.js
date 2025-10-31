@@ -7,12 +7,12 @@ const config = {
     "backgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1761765846013-1-web-or-mls-9-print-09-3_twilight_db2ea5e3-e69a-4082-8c66-5fc7444c4d2b.jpg"
   },
   "realtor": {
-    "fullName": "Christine Smith",
+    "fullName": "Christelle Sam",
     "title": "REALTOR®",
-    "phone": "(613) 706-0066",
-    "email": "christine@driscollpeca.com",
-    "photoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-522395869_18512258038048642_5362730613341176316_n.jpg",
-    "bio": "You won’t catch me using words like “top producer” or “#1 agent” because real estate isn’t about bragging rights. It’s about people. Real people. Real stories. Real moves. Whether I’m negotiating a complex deal, putting a creative spin on marketing, or rallying the community for a local event, I bring clear communication, bold strategy, and a no-nonsense approach to getting things done. I lead clients through major life transitions with confidence, care, and a plan that works—because it matters. Not just to you, but to me too. If you want someone who knows the process inside and out, keeps things moving forward, and shows up ready to advocate fiercely on your behalf, I got you.",
+    "phone": "1 (613) 706-0072",
+    "email": "christelle@driscollpeca.com",
+    "photoUrl": "https://i.ibb.co/bMYrDFGD/chrisetelle-sam.jpg",
+    "bio": "With years of real estate service under our belt, we can assure you that you are in good hands with our team. We are committed to listening to our clients, focusing on their needs and using keen negotiating skills to ensure a successful transaction for both buyers and sellers. With deep local knowledge and a true passion for real estate, we're committed to helping you find the perfect place to call home. Let's make your next move an exciting and rewarding one — we can't wait to work with you!",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
       "instagram": "https://www.instagram.com/driscollpecateam/",
