@@ -9,14 +9,14 @@ const config = {
   "realtor": {
     "fullName": "Christine Smith",
     "title": "REALTOR®",
-    "phone": "null",
+    "phone": "(613) 706-0066",
     "email": "christine@driscollpeca.com",
     "photoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-522395869_18512258038048642_5362730613341176316_n.jpg",
-    "bio": "With years of real estate service under our belt, we can assure you that you are in good hands with our team. We are committed to listening to our clients, focusing on their needs and using keen negotiating skills to ensure a successful transaction for both buyers and sellers. With deep local knowledge and a true passion for real estate, we're committed to helping you find the perfect place to call home. Let's make your next move an exciting and rewarding one — we can't wait to work with you!",
+    "bio": "You won’t catch me using words like “top producer” or “#1 agent” because real estate isn’t about bragging rights. It’s about people. Real people. Real stories. Real moves. Whether I’m negotiating a complex deal, putting a creative spin on marketing, or rallying the community for a local event, I bring clear communication, bold strategy, and a no-nonsense approach to getting things done. I lead clients through major life transitions with confidence, care, and a plan that works—because it matters. Not just to you, but to me too. If you want someone who knows the process inside and out, keeps things moving forward, and shows up ready to advocate fiercely on your behalf, I got you.",
     "social": {
-      "facebook": "#",
-      "instagram": "https://www.instagram.com/realbrokerage/",
-      "website": "https://onereal.ca/"
+      "facebook": "https://www.facebook.com/driscollpecateam",
+      "instagram": "https://www.instagram.com/driscollpecateam/",
+      "website": "http://driscollpeca.com/"
     }
   },
   "brokerage": {
@@ -27,17 +27,15 @@ const config = {
   "openHouse": {
     "eventDate": "",
     "bundleItems": [
-            {
-                  "icon": "fas fa-home",
-                  "text": "Full Property Listing",
-                  "url": "https://www.realtor.ca/real-estate/29030485/114-smith-road-north-grenville-803-north-grenville-twp-kemptville-south"
-            },
-            {
-                  "icon": "fas fa-file-pdf",
-                  "text": "Feature Website",
-                  "url": "https://sites.ground2airmedia.com/sites/xabmljb/unbranded"
-            }
-      ]
+      {
+        "icon": "fas fa-home",
+        "text": "Full Property Listing"
+      },
+      {
+        "icon": "fas fa-file-pdf",
+        "text": "Feature Website"
+      }
+    ]
   },
   "meta": {
     "pageTitlePrefix": "🏡 Christine Smith Open House",
@@ -60,36 +58,72 @@ const config = {
       "id": "agent_status",
       "questionText": "Are you currently exploring homes with a real estate agent?",
       "options": [
-        { "value": "committed", "text": "Yes, I'm committed to an agent." },
-        { "value": "not_committed", "text": "No, I'm not committed to an agent." },
-        { "value": "gathering_info", "text": "Just gathering information at this stage." }
+        {
+          "value": "committed",
+          "text": "Yes, I'm committed to an agent."
+        },
+        {
+          "value": "not_committed",
+          "text": "No, I'm not committed to an agent."
+        },
+        {
+          "value": "gathering_info",
+          "text": "Just gathering information at this stage."
+        }
       ]
     },
     {
       "id": "interest_level",
       "questionText": "How interested are you in this Detached?",
       "options": [
-        { "value": "very_interested", "text": "Very interested, actively looking." },
-        { "value": "somewhat_interested", "text": "Somewhat interested, keeping options open." },
-        { "value": "just_browsing", "text": "Just browsing for now." }
+        {
+          "value": "very_interested",
+          "text": "Very interested, actively looking."
+        },
+        {
+          "value": "somewhat_interested",
+          "text": "Somewhat interested, keeping options open."
+        },
+        {
+          "value": "just_browsing",
+          "text": "Just browsing for now."
+        }
       ]
     },
     {
       "id": "neighborhood_engagement",
       "questionText": "How do you usually enjoy the neighborhood?",
       "options": [
-        { "value": "resident_explorer", "text": "I live here and love exploring locally." },
-        { "value": "considering_move", "text": "I'm considering moving to this area." },
-        { "value": "just_visiting", "text": "Just visiting for the open house." }
+        {
+          "value": "resident_explorer",
+          "text": "I live here and love exploring locally."
+        },
+        {
+          "value": "considering_move",
+          "text": "I'm considering moving to this area."
+        },
+        {
+          "value": "just_visiting",
+          "text": "Just visiting for the open house."
+        }
       ]
     },
     {
       "id": "feature_attraction",
       "questionText": "What feature attracted you to this home?",
       "options": [
-        { "value": "design_layout", "text": "The design and layout." },
-        { "value": "location_neighborhood", "text": "The location and neighborhood." },
-        { "value": "home_price", "text": "The price of the home." }
+        {
+          "value": "design_layout",
+          "text": "The design and layout."
+        },
+        {
+          "value": "location_neighborhood",
+          "text": "The location and neighborhood."
+        },
+        {
+          "value": "home_price",
+          "text": "The price of the home."
+        }
       ]
     }
   ],
